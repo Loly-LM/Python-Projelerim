@@ -1,0 +1,39 @@
+Welcome the bank app simulation. Today is: {}
+Your device is: {}
+First, You have the login. Please insert your ID:
+Please insert your password:
+Your ID or password is wrong! Please try again.
+Remaining chance: {}
+You don't have more Remaining chance for login. Please try again.
+Log-in. Please wait...
+Welcome dear {}. Please wait. Redirecting to main menu.
+Welcome again dear {}. Please choose one procces:
+0 - Exit (Log-Out)
+1 - How much do i have balance?
+2 - Send money to another bank account
+3 - Change Phone number
+4 - Change password
+Thanks for Choosing us! See you later! App will be closed in 5 seconds.
+Dear {}, when date {}, your balance is: ${}
+You inserted not allowed characters. That because application will be closed in 5 seconds.
+Please insert the number of account you want to send money to:
+Please insert how much do you want send (+$2 proccesing cost):
+Money is sending. Please wait.
+Money has been sent to the account you want requested. Your current balance is: {}
+You will be directed in 4 second. Please wait...
+You can't sen monet to your account! You will be redirected to main menu
+You don't have enough balance to the send money as you want
+Please insert your old phone number for change phone number:
+Please insert your new phone number:
+Please insert your password for change the your phone number:
+Your phone number succesfully updated. Please wait for redirecting to main menu.
+Your password is incorrect. Please try again.
+Your phone number have to be like this: 5XXXXXXXXX Please try again.
+Your phone number is incorrect. Please try again.
+Please insert your password:
+Please insert your new password. Your new password have to be 6 digits number.
+Changing the password. Please wait...
+Your password is succesfully changed but you have the login again with your new password
+Your new password have to be 6 digits number.
+Your password is incorrect. Please try again later.
+You can choose 4 procces now and you did not choose one of them.

@@ -1,0 +1,39 @@
+Banka Yazılımı simulasyonuna hoşgeldiniz. Tarih: {}
+Girilen Cihaz Bilgisi: {}
+Uygulamayı Kullanamabilmeniz için önce giriş yapmanız gerekiyor. Lütfen önce TC Kimlik numaranızı giriniz:
+Lütfen Şifrenizi giriniz:
+Şifreniz veya TC Kimlik numaranızı yanlış girdiniz. Lütfen tekrar deneyiniz
+Kalan deneme hakkınız: {}
+Deneme haklarınızı tükettiğiniz için giriş yapamıyorsunuz. Lütfen daha sonra tekrar deneyiniz
+Giriş yapılıyor. Lütfen Bekleyiniz...
+Hoşgeldiniz sayın {}. Lütfen Bekleyiniz. Ana menüye yönlendiriliyorsunuz...
+Hoşgeldiniz sayın {}. Lütfen aşağıdan bir işlem seçiniz:
+0 - Çıkış
+1 - Bakiye Öğrenme
+2 - Para Gönderme
+3 - Telefon Numarası Değiştirme
+4 - Şifre Değiştirme
+Bizi tercih ettiğiniz için teşekkürler sayın {}. 5 saniye içinde çıkışınız gerçekleştiriliyor.
+Sayın {}, {} tarihiyle bakiyeniz: {} TL'dir. 
+Kabul edilmeyen karakter girdiğiniz için program kendini 5 saniye içinde kapatacaktır. İyi günler dileriz
+Lütfen para göndermek istediğiniz hesabın numarasını yazınız:
+Lütfen göndermek istediğiniz tutarı yazınız (+2 TL İşlem Ücreti):
+Para Gönderme İşlemi Başladı. Lütfen Bekleyiniz
+Para Gönderme işlemi başarıyla tamamlandı. Kalan bakiyeniz: {} TL
+4 saniye içinde ana menüye yönlendirileceksiniz. Lütfen Bekleyiniz.
+Kendi kendinize para gönderemezsiniz. Ana menüye yönlendiriliyorsunuz. Lütfen Bekleyiniz.
+Hesabınızda yeterli bakiye bulunmadığından dolayı işleminiz gerçekleştirilemedi. Gerekli Olan Ekstra Bakiye: {} TL.
+Telefon numaranızı değişirmek için lütfen eski telefon numaranızı giriniz:
+Yeni telefon numaranızı giriniz:
+Telefon numaranızı değişirmek için lütfen Şifrenizi giriniz:
+Telefon numaranız başarıyla güncellenmiştir. Lütfen ana menüye yönlendirilirken Bekleyiniz.
+Şifrenizi yanlış girdiğiniz için telefon numaranız güncellenememiştir. Lütfen tekrar deneyiniz.
+Yeni telefon numaranızı 5XXXXXXXXX şeklinde girmeniz gerekmektedir. Lütfen tekrar deneyiniz.
+Telefon numaranızı yanlış girdiğiniz için işleminiz iptal edilmiştir. Lütfen tekrar deneyiniz.
+Lütfen şu anda kullandığınız şifrenizi giriniz:
+Lütfen yeni şifrenizi giriniz ancak şunu unutmayın: Yeni şifreniz 6 haneli sayılardan oluşmak zorundadır.
+Şifreniz değiştiriliyor. Lütfen Bekleyiniz.
+Şifreniz başarıyla değiştirilmiştir. Bundan ötürü tekrar giriş yapmanız gerekiyor. Lütfen Bekleyiniz.
+Yeni şifreniz gereksinimleri karşılamadığından dolayı işleminiz iptal edilmiştir. Lütfen daha sonra tekrar deneyiniz.
+Şifrenizi yanlış girmenizden ötürü işleminiz iptal edilmiştir. Lütfen daha sonra tekrar deneyiniz
+Sadece mevcut işlemlerden birisini yapabilirsiniz ve yapmak istediğiniz işlemin numarasını girmelisiniz. Lütfen Bekleyiniz.
